@@ -124,40 +124,8 @@ def predict_agent_group(subject_line):
 
 # Example predictions
 new_subject_lines = [
-    "Deticon issue URGENT Contemporary Dentistry 52074 Printer _urgent_ backup device",
-    "Urgent Square not working need on 03/14 53034",
-    "Square down at entire office 57400",
-    "PNC not working Vistadent Denticon Down at office",
-    "Email password reset RECOVER EMAIL",
-    "viewing xrays",
-    "Request to Add Users to 'Tableau External Access' Group",
-    "RE: Box Medical Records 52066",
-    "RE: Box Medical Records 52066",
-    "Tableau External Access request",
-    "Request for Kate Manly: HR Request",
-    "Request for Andrea Walsh: HR Request",
-    "Transfer Credit Coupa Login and password",
-    "Dental Xchange Request",
-    "Request for doctor Staff Request",
-    "Production report",
-    "New Fortimobile token",
-    "Roselle Park-R55103-New insurance plan",
-    "Request for Sparkling Smiles Manager: Denticon Request",
-    "Error on claims?",
-    "Need help - Unable to connect Denticon",
-    "RE: Need help - Unable to connect Denticon",
-    "[SUSPICIOUS MESSAGE] Updates from All Company,
-    "Re: [EXTERNAL] Re: Request for Kristina Lilly: Denticon Request",
-    "[#SR-748953] IT Support square is not sowing up on denticon to charge out the patients. We have patients here at 7am",
-    "Email setup",
-    "EMail setup",
-    "Email Setup",
-    "Fw: Your mobile device is temporarily blocked from accessing content until your administrator grants it access.",
-    "FW: We found suspicious content in a message",
-    "Shared Voicemail (Helpdesk 2)",
-    "Strange email",
-    "Square Shared Voicemail (Helpdesk 2)",
-    "Blocked email"
+    "Put your subject's for testing here!",
+    "Lie by lie, we build the company and they feast"
 ]
 
 for subject in new_subject_lines:
