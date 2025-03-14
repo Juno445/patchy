@@ -124,11 +124,8 @@ def predict_agent_group(subject_line):
 
 # Example predictions
 new_subject_lines = [
-    "Fw: [EXTERNAL] FW: Termination of R42212-000 Made Ya Smile Rayford Crossing PLLC VERY IMPORTANT",
-    "Re: [EXTERNAL] WO# 3097671 The Best Braces #17509 SOUTHFIELD, MI computer systems",
-    "Request for Christina Lewis: Other REMOTE-TOPS Sever Denticon Issue DHA 57263",
     "Deticon issue URGENT Contemporary Dentistry 52074 Printer _urgent_ backup device",
-    "Urgent Square not working need Leslie McCullough on 03/14 53034",
+    "Urgent Square not working need on 03/14 53034",
     "Square down at entire office 57400",
     "PNC not working Vistadent Denticon Down at office",
     "Email password reset RECOVER EMAIL",
@@ -141,7 +138,7 @@ new_subject_lines = [
     "Request for Andrea Walsh: HR Request",
     "Transfer Credit Coupa Login and password",
     "Dental Xchange Request",
-    "Request for Janhavi Gaikwad: Staff Request",
+    "Request for doctor Staff Request",
     "Production report",
     "New Fortimobile token",
     "Roselle Park-R55103-New insurance plan",
@@ -149,7 +146,7 @@ new_subject_lines = [
     "Error on claims?",
     "Need help - Unable to connect Denticon",
     "RE: Need help - Unable to connect Denticon",
-    "[SUSPICIOUS MESSAGE] Updates from All Company at Dental Care Alliance, LLC",
+    "[SUSPICIOUS MESSAGE] Updates from All Company,
     "Re: [EXTERNAL] Re: Request for Kristina Lilly: Denticon Request",
     "[#SR-748953] IT Support square is not sowing up on denticon to charge out the patients. We have patients here at 7am",
     "Email setup",
